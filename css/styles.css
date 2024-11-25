@@ -4,7 +4,8 @@ header {
 }
 nav {
     background-color: white;
-    border-radius: 5px;
+    padding: 10px;
+    /* border-radius: 5px; */
 }
 nav ul {
     display: flex;
